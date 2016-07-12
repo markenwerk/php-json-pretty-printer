@@ -1,0 +1,30 @@
+{
+  "name": "markenwerk/json-pretty-printer",
+  "type": "library",
+  "description": "A PHP library providing pretty printing JSON strings for PHP < 5.4",
+  "keywords": [
+    "JSON",
+    "Pretty print"
+  ],
+  "homepage": "http://markenwerk.net/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martin Brecht-Precht",
+      "email": "mb@markenwerk.net",
+      "homepage": "http://markenwerk.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.8",
+    "codeclimate/php-test-reporter": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Markenwerk\\JsonPrettyPrinter\\": "src"
+    }
+  }
+}
