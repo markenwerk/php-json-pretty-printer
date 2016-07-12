@@ -8,7 +8,7 @@
 [![Total Downloads](https://poser.pugx.org/markenwerk/json-pretty-printer/downloads)](https://packagist.org/packages/markenwerk/json-pretty-printer)
 [![License](https://poser.pugx.org/markenwerk/json-pretty-printer/license)](https://packagist.org/packages/markenwerk/json-pretty-printer)
 
-A PHP library providing common Stack implementation based upon [this StackOverflow answer by Kendall Hopkins](http://stackoverflow.com/a/9776726).
+A PHP library providing pretty printing JSON strings for PHP < 5.4 based upon [this StackOverflow answer by Kendall Hopkins](http://stackoverflow.com/a/9776726).
 
 ## Installation
 
