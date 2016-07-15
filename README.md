@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/markenwerk/php-json-pretty-printer.svg?branch=master)](https://travis-ci.org/markenwerk/php-json-pretty-printer)
 [![Test Coverage](https://codeclimate.com/github/markenwerk/php-json-pretty-printer/badges/coverage.svg)](https://codeclimate.com/github/markenwerk/php-json-pretty-printer/coverage)
 [![Dependency Status](https://www.versioneye.com/user/projects/577d62ac91aab50027c6ca4d/badge.svg)](https://www.versioneye.com/user/projects/577d62ac91aab50027c6ca4d)
+[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/7850184e-1ddf-483f-8cd5-a408926b089e.svg)](https://insight.sensiolabs.com/projects/7850184e-1ddf-483f-8cd5-a408926b089e)
 [![Code Climate](https://codeclimate.com/github/markenwerk/php-json-pretty-printer/badges/gpa.svg)](https://codeclimate.com/github/markenwerk/php-json-pretty-printer)
 [![Latest Stable Version](https://poser.pugx.org/markenwerk/json-pretty-printer/v/stable)](https://packagist.org/packages/markenwerk/json-pretty-printer)
 [![Total Downloads](https://poser.pugx.org/markenwerk/json-pretty-printer/downloads)](https://packagist.org/packages/markenwerk/json-pretty-printer)
